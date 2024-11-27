@@ -6,8 +6,8 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'Qual a capital do Brasil?',
-    'A capital do Brasil é Brasilia'
+    'Qual a capital da India?',
+    'A capital da India é Nova Delhi'
 )
 
 criaCartao(
@@ -18,6 +18,6 @@ criaCartao(
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz café em Inglês?',
-    'Café em ingles é coffee (COFI)'
+    'Como se diz celular em Inglês?',
+    'Celular em ingles é Cell Phone (CEUFONE)'
 )
